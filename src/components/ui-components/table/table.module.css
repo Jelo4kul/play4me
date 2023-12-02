@@ -1,0 +1,27 @@
+
+ table.container {
+    padding: 0 0px;
+    width: 100%;
+  }
+
+ .container th, .container td, .container tr {
+     margin: 0;
+     padding: 0;
+     /* background-color: rgba(8, 1, 14, 1); */
+  }
+
+  .container th {
+    padding: 28px 0px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    text-align: left;
+  }
+
+  .container td {
+      padding: 20px 0;
+      text-align: left;
+      color: #726b6b;
+      background-color: transparent;
+    
+  }
